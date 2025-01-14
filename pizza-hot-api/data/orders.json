@@ -1,0 +1,23 @@
+[
+  {
+    "items": [
+      {
+        "id": "1",
+        "title": "Çiftlik Evi",
+        "description": "Pizza sosu, mozzarella peyniri, salam, mantar",
+        "image": "1.jpg",
+        "price": "280",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "ahmet",
+      "email": "ahmet@gmail.com",
+      "phone": "553810",
+      "address": "Balgat Caddesi",
+      "city": "Ankara",
+      "district": "Balgat"
+    },
+    "id": "1736859892244"
+  }
+]
