@@ -31,3 +31,12 @@ Components are used to build the UI. Examples include:
 ### Context API
 
 Context is used to manage global state, such as user data or theme preferences. Reducers handle state updates based on dispatched actions.
+
+## Screenshots
+
+![ss1](https://github.com/user-attachments/assets/8462332d-959a-4530-a6f1-dd4a18af10e4)
+![ss2](https://github.com/user-attachments/assets/a7d730c6-60e5-4675-98c8-387fe58d8119)
+![ss3](https://github.com/user-attachments/assets/3765e302-8ecc-45f2-a058-59f986a0d9c0)
+![ss4](https://github.com/user-attachments/assets/a16bb0cd-6226-4c5a-9a58-8b440c48094c)
+![ss5](https://github.com/user-attachments/assets/ccc4ca47-9ea7-4110-aa23-b192aced21aa)
+
