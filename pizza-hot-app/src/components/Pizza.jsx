@@ -20,11 +20,11 @@ export default function Pizza({ pizza }) {
           className="card-img-top p-2 p-md-3 border-bottom"
         />
         <div className="card-body">
-          <h3 className="card-title">Sucuk Mısır</h3>
+          <h3 className="card-title">{pizza.title}</h3>
           <p className="card-text">{pizza.description}</p>
           <div className="item-price">
             <b>{pizza.price} ₺</b>
-            <button onClick={handleAddItem} className={`btn btn-sm btn-${color}danger`}>
+            <button onClick={handleAddItem} className="btn btn-sm btn-danger">
               Sepete Ekle
             </button>
           </div>
